@@ -1,5 +1,10 @@
 # Game-Develop-Tutorials
 
+### 说明
+ 大家好，我是**游戏谭**，也可以叫我**渔夫**，这里汇集个人的所有游戏开发教程，大部分是以视频的形式呈现，基础的，中高级的都有，
+ 你可以点击下面的链接进行查看
+
+
 ### 所有教程
 
 | 课程名字| 视频地址 | github |
@@ -10,10 +15,12 @@
 |[104-Unity编程基础 	](https://github.com/GamesTan/104_UnityScriptTutorial/README.md)|[B站](https://space.bilibili.com/481436151/channel/detail?cid=190825&ctype=0)| [课程资源](https://github.com/GamesTan/104_UnityScriptTutorial)
 
 
+### 交流qq群
+  539197638
 
 
 ### 奖励作者
-- 如果您觉得本套教程确实不错，并认为作者的努力值得肯定，可以通过 [B站](https://space.bilibili.com/481436151) 点个关注
+- 如果您觉得该系列教程确实不错，并认为作者的努力值得肯定，可以通过 [B站](https://space.bilibili.com/481436151) 点个关注
 
 ### **赞助支持**
 <p align="center"><img src="https://github.com/GamesTan/104_UnityScriptTutorial/blob/main/Pics/wechat.png" width="256"></p>
